@@ -1,0 +1,32 @@
+A549 Perturbation Analysis Summary
+==================================
+
+Total cells analyzed: 246262
+Control cells: 20617
+Treatment cells: 225645
+
+Unique drugs analyzed: 21
+
+Top 10 drugs by number of affected genes:
+- acme hs dissociation: 18034 genes
+- car t cell therapy, suv39h1 kn: 17533 genes
+- infected with h3n2 (a/perth/16: 16950 genes
+- in vitro culture of ipsc-rpe: 16341 genes
+- car t cell therapy with suv39h: 16322 genes
+- antineoplastic agents, mixed m: 16182 genes
+- irradiation: 15578 genes
+- bexmarilimab: 15511 genes
+- 6 gy γ-ray treatment: 15319 genes
+- infected with h1n1 (a/californ: 15300 genes
+
+Top 10 genes affected by multiple drugs:
+- ENSG00000001036: affected by 21 drugs
+- ENSG00000001497: affected by 21 drugs
+- ENSG00000163931: affected by 21 drugs
+- ENSG00000163939: affected by 21 drugs
+- ENSG00000163946: affected by 21 drugs
+- ENSG00000163947: affected by 21 drugs
+- ENSG00000164024: affected by 21 drugs
+- ENSG00000164031: affected by 21 drugs
+- ENSG00000164039: affected by 21 drugs
+- ENSG00000164040: affected by 21 drugs
