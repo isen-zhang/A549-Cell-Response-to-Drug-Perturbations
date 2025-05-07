@@ -91,15 +91,6 @@ The project uses the following key Python packages:
 - Jupyter and related packages
 - Google Cloud Storage integration tools
 
-## Contributing
-
-Feel free to submit issues and enhancement requests.
-
-## License
-
-[Add appropriate license information]
-
-
 
 
 
