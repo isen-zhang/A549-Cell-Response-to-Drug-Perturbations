@@ -1,0 +1,16 @@
+Gene Name,Ensembl ID,Protein Name,Function
+STAB1,ENSG00000010327,CLEVER-1 (Stabilin-1),Cross-membrane protein on macrophages; promotes immune suppression in tumors.
+MX1,ENSG00000157601,MX1,Interferon-induced antiviral protein; enhances immune response.
+CIITA,ENSG00000179583,CIITA,Transcriptional regulator of MHC class II; involved in antigen presentation.
+CXCL10,ENSG00000169245,CXCL10 (IP-10),Chemokine that attracts activated T cells; promotes anti-tumor immunity.
+IFNG,ENSG00000111537,IFNγ,Cytokine that activates immune responses; enhances T cell activity.
+IL4I1,ENSG00000104951,IL4I1,"Immunosuppressive enzyme; expressed in macrophages, linked to immune suppression."
+HLA-DRA,ENSG00000204287,HLA-DR,MHC class II molecule; critical for antigen presentation to T cells.
+CD68,ENSG00000129226,CD68,Macrophage marker; used to identify tumor-associated macrophages (TAMs).
+FLT3,ENSG00000122025,FLT3,"Receptor tyrosine kinase; often mutated in AML, drives cancer cell growth."
+TP53,ENSG00000141510,p53,"Tumor suppressor; regulates cell cycle and apoptosis, often mutated in cancers."
+CD8A,ENSG00000153563,CD8α,Marker of cytotoxic T cells; involved in immune recognition and killing.
+CD4,ENSG00000010610,CD4,Marker of helper T cells; aids in immune coordination and activation.
+TNF,ENSG00000232810,TNFα,Pro-inflammatory cytokine; involved in immune response and inflammation.
+KRAS,ENSG00000133703,KRAS,"Oncogene; regulates cell growth signaling, often mutated in cancers."
+RAF1,ENSG00000132155,RAF1,"Serine/threonine kinase; part of MAPK pathway, promotes cell proliferation."
